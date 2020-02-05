@@ -94,6 +94,10 @@ img {
   color: #FF7C55;
 }
 
+#goodreads {
+  color: #565E7D;
+}
+
 @media (max-width: 2000px) {
   /* For a screen < 2000px, this CSS will be read */
   .container {
